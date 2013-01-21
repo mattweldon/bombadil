@@ -1,0 +1,16 @@
+﻿---
+title: Your Awesome Landing Page!
+description: Some kickass, SEO friendly description goes here.
+author: Matt
+date: 14 Jan 2013
+---
+
+<div class="jumbotron">
+	# Your Awesome Landing Page!
+</div>
+
+Lorem ipsum dolor sit amet, *consectetur adipiscing elit*. Praesent ullamcorper interdum velit in convallis. Maecenas at libero mi, non faucibus nulla. Nulla pulvinar enim a nisi molestie viverra. Curabitur est nunc, pretium ut varius vitae, mollis placerat erat. Nulla sit amet commodo nibh. Ut imperdiet nisi sed magna convallis hendrerit at eu ante. Nam gravida, urna ac pellentesque laoreet, erat nisi iaculis felis, id ornare est nulla gravida justo. Pellentesque vehicula urna vel nibh aliquet malesuada. Integer vitae elit in tellus condimentum suscipit ac ut mi. Nunc imperdiet quam eget nulla viverra eleifend.
+
+Vestibulum vulputate velit eu justo facilisis mollis. Aenean quis rhoncus lorem. In hac habitasse platea dictumst. Sed enim dolor, facilisis a tempor eget, fermentum ac est. Praesent sit amet erat purus, in vulputate nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut eu iaculis quam.
+
+Nullam dolor ipsum, cursus mollis rhoncus sit amet, posuere in est. Maecenas rhoncus tincidunt ante, et fringilla felis egestas sit amet. Proin ipsum turpis, sollicitudin a tristique vel, porttitor suscipit justo. Nulla at imperdiet magna. Morbi ac magna id sem pretium varius. Maecenas faucibus, ante at rhoncus cursus, nunc urna mattis orci, quis pretium dui ligula nec diam. Vivamus mi justo, faucibus vitae venenatis id, imperdiet eleifend magna.

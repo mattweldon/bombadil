@@ -1,0 +1,20 @@
+﻿@model Bombadil.Core.Models.Page
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@Html.Raw(Model.Title)</title>
+</head>
+<body>
+    <div>
+        <!-- The current time is: @DateTime.Now.ToString("dd MMM yyyy HH:mm:ss") -->
+
+        @Html.Raw(Model.Content)
+    </div>
+</body>
+</html>
