@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombadil.Core", "Bombadil\Bombadil.Core.csproj", "{6367C90E-CDC0-4061-9B84-15EC5528D35F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombadil.Core", "Bombadil.Core\Bombadil.Core.csproj", "{6367C90E-CDC0-4061-9B84-15EC5528D35F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombadil.Tests", "Bombadil.Tests\Bombadil.Tests.csproj", "{1C6A942E-2474-49E5-B06F-D955203AF4EC}"
 EndProject
