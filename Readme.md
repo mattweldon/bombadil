@@ -5,7 +5,7 @@ Takes the static file aspects of Jekyll and exposes them in an ASP.NET MVC frien
 When a file is requsted, this JSON is then parsed into a POCO which can be used in your MVC project.
 
 
-Project Structure
+Project Structure 1
 --------------------------------
 
 *Bombadil.Core*
